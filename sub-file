@@ -1,0 +1,4 @@
+a = 2
+b = 20
+sub = b - a
+print ("pirnt the result" sub)
